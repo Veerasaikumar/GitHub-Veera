@@ -1,3 +1,4 @@
 # GitHub-Veera
 This is my first GitHub writing
-  thank you eurekha, i think the mentor aayushi 
+  thank you edurekha, i think the writer is aayushi 
+                   and the mentor is kavya
